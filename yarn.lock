@@ -8,9 +8,10 @@
   dependencies:
     esquery "^1.0.1"
 
-"@types/node@^10.0.0":
-  version "10.12.24"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.12.24.tgz#b13564af612a22a20b5d95ca40f1bffb3af315cf"
+"@types/node@^11.9.1":
+  version "11.9.2"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-11.9.2.tgz#806126bdb6b1d7adcbff39170e5c95b19d3ec0d4"
+  integrity sha512-MMwOkF+sy8LlSN2jLTGtwTcfqVN3H1WaCRO8gVaySVMJtOiZR+9V0y/3UprGi0rx6X7OrWGKGUtSviGVT44W3A==
 
 ansi-regex@^2.0.0:
   version "2.1.1"
